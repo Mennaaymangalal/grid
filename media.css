@@ -1,0 +1,52 @@
+@media screen and (max-width: 991px){
+    .container {           
+        grid-template-areas:
+          " item1 item1 "
+          "item1 item1 "
+          "title1 title1"
+          "title1 title1"
+          "item2 item6 "
+          "item2 item6 "
+          "item3 item4 "
+          "item3 item4 "
+          "item8 item5 "
+          "item8 item5 "
+          "item7 item5 "
+          "item7 item5 "
+          "item9 item9 "
+          "item10 item10 "
+          "item10 item10 ";
+         
+      }
+}
+@media screen and (max-width: 628px){   
+   
+        .container {           
+            grid-template-areas:
+              " item1"
+              "item11"
+              "title1"
+              "title1"
+              "item2"
+              "item2"
+              "item6"
+              "item6"
+              "item3"
+              "item3"
+              " item4"
+              " item4"
+              "item8"
+              "item8"
+              "item5"
+              "item5"
+              "item5"
+              "item5"
+              "item7"
+              "item7"
+              "item9"
+              "item10"
+              "item10";
+             
+          }
+   
+}
